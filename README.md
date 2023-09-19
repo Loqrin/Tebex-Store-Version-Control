@@ -4,3 +4,7 @@ A repository hosting versions of FiveM scripts on my Tebex store @ https://store
 loq-lib:1.0.0
 
 loq-better-downforce:1.0.0
+
+loq-golf:1.0.5
+
+loq-fart:1.0.1
