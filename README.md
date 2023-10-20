@@ -5,6 +5,6 @@ loq-lib:1.0.1
 
 loq-better-downforce:1.0.3
 
-loq-golf:1.0.5
+loq-golf:1.0.6
 
 loq-fart:1.0.1
